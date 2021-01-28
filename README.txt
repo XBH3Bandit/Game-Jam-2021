@@ -1,1 +1,0 @@
-Welcome to the First Time Jammers' Global Game Jam 2021 Repository!!!
