@@ -1,2 +1,2 @@
-# Game-Jam-2021
-Our Repository for Game Jam 2021
+# The Lost Machine
+Welcome to the Git-Hub repository for The Lost Machine game.
